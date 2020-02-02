@@ -1,5 +1,4 @@
 # depaginator
-depaginator
 
 To dump a series of pages into a html file based on url pattern. Written by junh1024 in 2016
 
